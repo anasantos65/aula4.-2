@@ -1,0 +1,17 @@
+ordenaçao inversa (para numeros ou textos)
+variavel .sort(reverse=true)
+criar uma nova lista de uma lista existne
+funçao copy ();ou
+funçao list ().
+novalsita=listaexistente .copy()
+novalista=list(listaexigent)
+funçao que nos permite  verificar quantas vezes um objeto ocorre dentro de uma lista 
+ex;variavel.count(objeto)
+ex;variavel.index (objeto)
+intervalo-funçao range ()
+um valor inicial;
+um valor final;e
+um valor de passo 
+a funçao range gera sequencia e define intervalo de valores:
+sintaxe
+range(inicio,fim,passo) 
